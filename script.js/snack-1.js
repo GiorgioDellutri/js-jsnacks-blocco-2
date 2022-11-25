@@ -1,4 +1,4 @@
-// Snack 1
+// Snack 1#####################################
 
 // const lista = [ ];
 
@@ -15,8 +15,7 @@
 
 // console.log(lista)
 
-
-// Snack 2
+// Snack 2########################################
 
 
 const inputNumero = parseInt(prompt('Inserici un numero'));
